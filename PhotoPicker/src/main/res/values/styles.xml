@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="AppBaseTheme" parent="Theme.AppCompat.Light.NoActionBar">
+
+    </style>
+
+    <style name="MyTitleTextStyle">
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <!-- 5.0以下沉浸式状态栏的显示控制样式 -->
+    <style name="expose_status_bar_style">
+        <item name="android:clipToPadding">false</item>
+        <item name="android:fitsSystemWindows">true</item>
+    </style>
+
+    <!-- 滚动条的样式 -->
+    <style name="scroll_bar_style">
+        <item name="android:scrollbarSize">3dip</item>
+        <item name="android:scrollbarStyle">outsideOverlay</item>
+        <item name="android:scrollbarThumbVertical">@drawable/scroll_bar_vertical_thumb</item>
+    </style>
+</resources>

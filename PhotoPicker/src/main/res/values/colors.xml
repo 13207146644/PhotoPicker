@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+
+    <color name="app_color">#439AEB</color>
+    <color name="transparent">#00000000</color><!--透明 -->
+    <color name="translucent">#CC000000</color><!--半透明 -->
+    <color name="black">#FF000000</color><!--黑色-->
+    <color name="white">#FFFFFFFF</color><!--白色-->
+    <color name="blue">#35BACB</color><!-- 蓝色 -->
+    <color name="red">#FFF44763</color><!-- 红色 -->
+    <color name="green">#339900</color>
+    <color name="yellow">#FFD245</color>
+    <color name="orange">#FA8300</color>
+    <color name="blue_dark">#5680D6</color>
+    <color name="yellow_light">#FEB13F</color>
+    <color name="red_light">#E57066</color>
+    <color name="blue_light">#689EF6</color>
+    <color name="grey_light">#88E6E6E6</color>
+    <color name="grey_dark">#666666</color>
+    <color name="grey_normal">#CFCFCF</color>
+    <color name="main_color">#48B94A</color>
+    <color name="line_color">#E0E0E0</color>
+    <drawable name="transparence">#00000000</drawable><!-- 透明的drawable -->
+</resources>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PhotoPicker</string>
+
+    <string name="warm_tip">温馨提示</string>
+    <string name="ok_label">确定</string>
+    <string name="cancel_label">取消</string>
+
+    <!-- 本地图片 -->
+    <string name="select_file_title">选择文件</string>
+    <string name="select_photo_title">选择图片</string>
+    <string name="select_photo_tip">请至少选择一张图片</string>
+    <string name="has_choosed">已选(%1$d)张</string>
+    <string name="most_photo_upload">选取照片已达到上限</string>
+    <string name="get_image_list_failure">没有获取到照片信息，去拍一张吧</string>
+    <string name="choose">选择</string>
+    <string name="preview">预览</string>
+    <string name="confirm_delete_this_photo">确定删除这张图片吗？</string>
+    <string name="no_photo">还没有照片，赶紧去拍一张吧</string>
+</resources>
